@@ -1,0 +1,5 @@
+1) to access the row location of loc1 you would use loc1.getRow();
+2) false
+3) 3, 3
+4) south
+5) the nearest beeper

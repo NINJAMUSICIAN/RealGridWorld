@@ -1,0 +1,6 @@
+1. the methods in critter are the makeMove, act, get actors and getLocation 
+2. move, turn, jump, block, drop flower
+3. no because getActors does a very very specific thing so over riding it would be pointless and confusing.
+4. if its a rock stop, if its a flower keep moving and if its another bug do something specific.
+5. move which moves the bug one step forward usually, canMove checks if the bug can move forward by checking for rocks and other critters in front of the bug, and turn which turns the bug 45 degrees 
+6. because you cant return a critter. you can return a boxBug because that is a specific critter but you are not able to return just an entire critter. 
